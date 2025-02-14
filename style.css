@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    text-decoration: underline;
+}
+
+summary {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    color: aliceblue;
+    background-color: darkolivegreen;
+}
